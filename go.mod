@@ -1,4 +1,4 @@
-module github.com/afeiroom/afeiroom.github.io
+module github.com/afeiroom/work
 
 go 1.19
 
