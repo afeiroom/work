@@ -10,7 +10,7 @@ main:
   - name: Support
     identifier: support
     weight: 100
-    url: https://github.com/hbstack
+    url: ### https://github.com/hbstack
     params:
       header: The HB support community.
       icon:
