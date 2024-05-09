@@ -1,5 +1,5 @@
 ---
-title: HB 卡片主题
+title: Afei 主页
 # menu:
 #   main:
 #     name: 主页
