@@ -19,7 +19,7 @@ categories:
 tags:
   - 国际新闻
 images:
-  - https://alifei03.cfp.cn/creative/vcg/800/new/VCG211494591067.jpg?width=1920&height=1280
+  - https://example-images.razonyang.com/flowchart.webp?width=1920&height=1280
 # menu:
 #   main:
 #     weight: 100
