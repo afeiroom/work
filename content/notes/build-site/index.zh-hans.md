@@ -18,6 +18,7 @@ categories:
   - Mkdocs
 tags:
   - Windows
+  - Mkdocs
 images:
   - https://example-images.razonyang.com/website-design.webp?width=1920&height=1280
 # menu:
