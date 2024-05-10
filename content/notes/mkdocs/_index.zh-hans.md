@@ -1,13 +1,14 @@
 ---
-title: 笔记
+title: Mkdocs
 type: docs
 description: 分享个人学习的知识内容。
 menu:
   main:
-    identifier: notes
-    weight: 2
+    parent: notes
+    weight: 1
     params:
       icon:
         vendor: bs
-        name: pencil-square
+        name: intersect
+        color: SkyBlue
 ---
