@@ -20,7 +20,7 @@ tags:
   - 职场
   - 情商
 images:
-  - /images/banquet.jpg?width=1920&height=1280
+  - /images/banquet.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100

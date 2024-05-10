@@ -18,8 +18,9 @@ categories:
   - 新闻
 tags:
   - 国际新闻
+
 images:
-  - /images/tiktok.jpg?width=1920&height=1280
+  - /images/tiktok.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100
