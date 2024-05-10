@@ -2,11 +2,11 @@
 title: "建立小站的第一天"
 description: "记录一下建站的过程"
 # linkTitle:
-date: 2024-04-07
+date: 2024-04-07T16:00:00+08:00
 draft: false
 noindex: false
-featured: true
-pinned: true
+featured: false
+pinned: false
 nav_weight: 1
 nav_icon:
   vendor: bootstrap

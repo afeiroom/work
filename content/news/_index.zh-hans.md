@@ -8,5 +8,5 @@ menu:
     params:
       icon:
         vendor: bs
-        name: newspaper
+        name: exclamation-square
 ---

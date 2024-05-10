@@ -1,7 +1,7 @@
 ---
 title: Notes
 type: docs
-description: Yet another digital garden that using docs layout.
+description: Share the knowledge content of personal learning.
 menu:
   main:
     weight: 1

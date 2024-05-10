@@ -1,6 +1,6 @@
 ---
 title: 文档
-description: 文档布局示例。
+description: 摘抄、转载优秀文章。
 menu:
   main:
     weight: 1

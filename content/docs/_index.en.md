@@ -1,6 +1,6 @@
 ---
 title: Docs
-description: The example of docs layout.
+description: Excerpt and reprint excellent articles.
 menu:
   main:
     weight: 1

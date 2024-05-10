@@ -1,7 +1,7 @@
 ---
 title: 笔记
 type: docs
-description: 使用文档布局的另一个数字花园。
+description: 分享个人学习的知识内容。
 menu:
   main:
     weight: 1
