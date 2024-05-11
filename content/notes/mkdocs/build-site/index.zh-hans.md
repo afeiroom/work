@@ -10,8 +10,8 @@ pinned: false
 nav_weight: 1
 nav_icon:
   vendor: bootstrap
-  name: cloud-download
-  color: green
+  name: intersect
+  color: SkyBlue
 series:
   - 建站
 categories:
@@ -35,7 +35,8 @@ authors:
 
 # 建立小站的第一天
 
-* 记录一下建站的过程
+* 记录一下建站的过程。
+这个是我最早学习用 Mkdocs 搭建静态网站。也从此开始了 IT 学习之路。
 
 ## 参考内容
 

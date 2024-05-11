@@ -1,7 +1,7 @@
 ---
-title: Mkdocs
+title: Mkdocs 搭建博客网站
 type: docs
-description: 分享个人学习的知识内容。
+description: 从头开始，学习使用 Mkdocs 搭建静态网站。
 menu:
   main:
     parent: notes
