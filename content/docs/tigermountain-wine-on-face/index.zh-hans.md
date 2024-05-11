@@ -21,7 +21,7 @@ tags:
   - 情商
   - 虎山行不行
 images:
-  - /images/banquet.jpg?width=1920&height=1440
+  - https://sm.ms/image/ASp1aifWuGK5TPH?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100
