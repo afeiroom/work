@@ -13,12 +13,13 @@ nav_icon:
   name: patch-question-fill
   color: green
 series:
-  - 转帖
-categories:
   - 虎山行不行
+categories:
+  - 文档
 tags:
   - 职场
   - 情商
+  - 虎山行不行
 images:
   - /images/banquet.jpg?width=1920&height=1440
 # menu:

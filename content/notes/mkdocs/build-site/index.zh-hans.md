@@ -13,9 +13,9 @@ nav_icon:
   name: intersect
   color: SkyBlue
 series:
-  - 建站
-categories:
   - Mkdocs
+categories:
+  - 笔记
 tags:
   - Windows
   - Mkdocs
