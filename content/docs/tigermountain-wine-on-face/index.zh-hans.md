@@ -21,7 +21,7 @@ tags:
   - 情商
   - 虎山行不行
 images:
-  - https://smms.app/image/5VQ8zsdOD2Bi9ZW?width=1920&height=1440
+  - https://s2.loli.net/2024/05/11/5VQ8zsdOD2Bi9ZW.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100
