@@ -20,7 +20,7 @@ tags:
   - Windows
   - Mkdocs
 images:
-  - /images/internet.jpg?width=1920&height=1440
+  - https://s2.loli.net/2024/05/11/cfskg6xm4duv3UN.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100

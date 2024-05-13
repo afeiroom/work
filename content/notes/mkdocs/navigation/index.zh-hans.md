@@ -20,7 +20,7 @@ tags:
   - Windows
   - Mkdocs
 images:
-  - /images/navigation.jpg?width=1920&height=1440
+  - https://s2.loli.net/2024/05/11/YFpZ3hjOJdWTrNS.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100
@@ -72,10 +72,10 @@ theme:
 ```
 
 带导航标签
-![带导航标签](/images/navigationtabs.png)
+![带导航标签](https://s2.loli.net/2024/05/13/vMt4UcqDEa59YF6.png)
 
 不带导航标签
-![不带导航标签](/images/navigationtabsno.png)
+![不带导航标签](https://s2.loli.net/2024/05/13/v1RQGChtE9maT7g.png)
 
 ## 粘性导航标签
 
@@ -91,10 +91,10 @@ theme:
 ```
 
 带粘性导航标签
-![带粘性导航标签](/images/sticky.png)
+![带粘性导航标签](https://s2.loli.net/2024/05/13/iryVWaDMXEcIh86.png)
 
 不带粘性导航标签
-![不带粘性导航标签](/images/stickyno.png)
+![不带粘性导航标签](https://s2.loli.net/2024/05/13/8CvdB3mM75Gi9fP.png)
 
 ## 导航分区
 启用导航分区后，顶级分区将在上面视口的边栏中呈现为组，但在移动设备上保持原样。将以下行添加到：mkdocs.yml
@@ -123,10 +123,10 @@ nav:
 	
 ```
 带导航分区
-![带导航分区](/images/sections.png)
+![带导航分区](https://s2.loli.net/2024/05/13/DdXvhmZlqwH8cxe.png)
 
 不带导航分区
-![不带导航分区](/images/sectionsno.png)
+![不带导航分区](https://s2.loli.net/2024/05/13/nMJsNz7Q4mex6VW.png)
 
 ## 导航扩展
 
@@ -141,11 +141,11 @@ theme:
 
 带导航扩展
 
-![带导航扩展](/images/navigationexpand.png)
+![带导航扩展](https://s2.loli.net/2024/05/13/MHafmhb4rKuDzLc.png)
 
 不带导航扩展
 
-![不带导航扩展](/images/navigationexpandno.png)
+![不带导航扩展](https://s2.loli.net/2024/05/13/Rtz1HJlPueO6rmk.png)
 
 ## 章节索引页
 

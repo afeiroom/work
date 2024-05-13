@@ -20,7 +20,7 @@ tags:
   - Windows
   - Mkdocs
 images:
-  - /images/formatting.jpg?width=1920&height=1440
+  - https://s2.loli.net/2024/05/11/tAGhYaXn6zSvQdN.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100

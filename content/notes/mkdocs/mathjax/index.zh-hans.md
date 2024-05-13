@@ -26,7 +26,7 @@ tags:
   - Windows
   - Mkdocs
 images:
-  - /images/mathjax.jpg?width=1920&height=1440
+  - https://s2.loli.net/2024/05/11/GXpVCSad2hDyQuA.jpg?width=1920&height=1440
 # menu:
 #   main:
 #     weight: 100
