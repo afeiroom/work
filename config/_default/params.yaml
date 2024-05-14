@@ -41,8 +41,8 @@ hb:
         # title: Profile title other than site title.
         # description: Profile description other than site description.
         avatar_size: 100
-        company: COMPANY
-        location: Earth
+        company: 宇宙的中心
+        location: "太阳系＞地球"
         ### socials:
           ### github: afeiroom
           ### mastodon: https://techhub.social/@hbstack
